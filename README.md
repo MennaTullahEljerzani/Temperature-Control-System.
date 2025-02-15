@@ -1,4 +1,4 @@
-# Temperature-Control-System.
+# Temperature-Control-System
 It compares the value of the temperature with the high and low temperatures.
 Objective:
 It takes the high and low temperatures from the user. If the temperature is less than a specified minimum value, a heater should be on. 
